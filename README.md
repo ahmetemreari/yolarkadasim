@@ -1,6 +1,6 @@
 # KullaniciKayit
 
-!Proje Logosu
+
 
 Bu proje, kullanıcı bilgilerini alarak kayıt oluşturan ve yapılan harcamalara göre puan hesaplayan basit bir konsol uygulamasıdır.
 
@@ -54,9 +54,6 @@ Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue 
 - [Proje Deposu](https://github.com/kullanici/kullanici-kayit)
 - [Dokümantasyon](https://github.com/kullanici/kullanici-kayit/wiki)
 
-## İletişim
-
-Herhangi bir sorunuz veya geri bildiriminiz için [email@example.com](mailto:email@example.com) adresinden iletişime geçebilirsiniz.
 
 ## Lisans
 
